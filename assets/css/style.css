@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Quicksand:wght@300&display=swap');
+
+body {
+    font-family: Nunito, sans-serif;
+    font-weight: 300;
+    color: #686576;
+    background-color: #efefef;
+}
+
+/* Logo and Heading */
+
+h1 {
+    font-family: Quicksand, sans-serif;
+    letter-spacing: 2px;
+    color: #4f4f4f;
+    text-transform: uppercase;
+}
+
+#logo {
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+}
