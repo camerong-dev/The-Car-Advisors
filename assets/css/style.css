@@ -19,5 +19,28 @@ h1 {
 #logo {
     float: left;
     margin-left: 5px;
-    margin-top: 5px;
+    margin-top: 2.5px;
+}
+
+/* Nav links */
+
+#nav {
+    letter-spacing: 2px;
+}
+
+#nav li {
+    float: right;
+    margin-right: 10px;
+    list-style-type: none;
+}
+
+#nav a {
+    color: #4f4f4f;
+    text-decoration: none;
+}
+
+/* Nav hover */
+
+#nav a:hover {
+    border-bottom: 2px solid #00a97f;
 }
