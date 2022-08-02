@@ -11,7 +11,7 @@ body {
 
 /* Logo and Heading */
 
-h1 {
+h1 h2 {
     font-family: Quicksand, sans-serif;
     letter-spacing: 2px;
     color: #4f4f4f;
@@ -20,20 +20,22 @@ h1 {
 
 #logo {
     float: left;
-    margin-left: 5px;
+    margin-left: 7.5px;
     margin-top: 2.5px;
+    border-bottom: 2px solid #00a97f;
 }
 
 /* Nav links */
 
 #nav {
-    letter-spacing: 2px;
+    letter-spacing: 1.5px;
 }
 
 #nav li {
     float: right;
     margin-right: 10px;
     list-style-type: none;
+    font-size: 105%;
 }
 
 #nav a {
@@ -45,4 +47,22 @@ h1 {
 
 #nav a:hover {
     border-bottom: 2px solid #00a97f;
+}
+
+/* Main image on home screen */
+
+
+
+/* Who are we section */
+
+#who-are-we {
+    padding-top: 5%;
+    margin-left: 7.5px;
+    border-bottom: #00a97f 2px solid;
+    width: 900px;
+}
+
+#experts {
+    margin-left: 7.5px;
+    width: 900px;
 }
