@@ -25,6 +25,7 @@ h1 h2 {
     border-bottom: 2px solid #00a97f;
 }
 
+
 /* H2 Header */
 
 #h2-header {
@@ -58,6 +59,8 @@ h1 h2 {
     border-bottom: 2px solid #00a97f;
 }
 
+
+
 /* Home Page styling */
 
 #home-p {
@@ -65,5 +68,15 @@ h1 h2 {
     width: 900px;
 }
 
-/* Who are we image */
+.button {
+    display: inline-block;
+    font-family: Nunito, sans-serif;
+    color: #4f4f4f;
+    text-decoration: none;
+    border-bottom: #00a97f 2px solid;
+    font-size: 150%;
+    text-align: center;
+    margin-left: 50%;
+    margin-right: 50%;
+}
 
