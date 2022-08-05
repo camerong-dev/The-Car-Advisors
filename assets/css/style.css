@@ -70,13 +70,34 @@ h1 h2 {
 
 .button {
     display: inline-block;
-    font-family: Nunito, sans-serif;
+    font-family: Quicksand, sans-serif;
     color: #4f4f4f;
     text-decoration: none;
-    border-bottom: #00a97f 2px solid;
+    border: #00a97f 2px solid;
     font-size: 150%;
     text-align: center;
-    margin-left: 50%;
     margin-right: 50%;
+    margin-left: 50%;
 }
 
+.button:hover {
+    background-color: #00d39e;
+}
+
+/* Footing Styling  -  referred to Love Running project*/
+
+#social-icons {
+    text-align: center;
+}
+
+#social-icons li {
+    display: inline;
+}
+
+#social-icons i {
+    color: #00a97f;
+    list-style-type: none;
+    font-size: 175%;
+    padding: 2.5%;
+    text-decoration: none;
+}
