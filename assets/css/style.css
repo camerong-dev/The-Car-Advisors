@@ -61,27 +61,23 @@ h1 h2 {
 
 
 
-/* Home Page styling */
+/* Generic Page styling */
 
-#home-p {
-    margin-left: 7.5px;
+#paragraph {
+    margin-left: auto;
+    margin-right: auto;
     width: 900px;
-}
-
-.button {
-    display: inline-block;
-    font-family: Quicksand, sans-serif;
-    color: #4f4f4f;
-    text-decoration: none;
-    border: #00a97f 2px solid;
-    font-size: 150%;
     text-align: center;
-    margin-right: 50%;
-    margin-left: 50%;
+    list-style-type: none;
+    font-size: 125%;
 }
 
-.button:hover {
-    background-color: #00d39e;
+/* Home page video */
+
+#home-video {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
 
 /* Footing Styling  -  referred to Love Running project*/
