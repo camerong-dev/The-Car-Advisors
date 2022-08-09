@@ -113,24 +113,66 @@ h1 h2 {
 }
 
 /* Advice button styling */
+#row-1 {
+    width: 1000px;
+    margin: auto;
+}
+
+#row-2 {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 500px;
+}
 
 #title {
     font-size: 115%;
     text-align: center;
 }
 
-#advice-card {
-    margin-left: 7.5px;
+#advice-card-left {
+    float: left;
     width: auto;
-    height: auto;
+    height: 440px;
     position: absolute;
     cursor: pointer;
     border: #00a97f 2px solid;
 }
 
+#advice-card-left:hover {
+    background-color: #8abbaf;
+}
+
+#advice-card-center {
+    margin-left: 400px;
+    width: auto;
+    height: 440px;
+    position: absolute;
+    cursor: pointer;
+    border: #00a97f 2px solid;
+}
+
+#advice-card-center:hover {
+    background-color: #8abbaf;
+}
+
+#advice-card-right {
+    margin-left: 800px;
+    width: auto;
+    height: 440px;
+    position: absolute;
+    cursor: pointer;
+    border: #00a97f 2px solid;
+}
+
+#advice-card-right:hover {
+    background-color: #8abbaf;
+}
+
 #advice-card-content {
     text-align: center;
     width: 300px;
+    font-size: 115%;
 }
 
 #advice-card-media {
