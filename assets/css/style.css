@@ -85,12 +85,19 @@ h1 h2 {
     text-align: left;
     font-size: 115%
 }
+#home-list {
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    text-align: left;
+    font-size: 100%
+}
 
 /* Home page video */
 
 #home-video {
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
+    display: block;
     text-align: center;
 }
 
@@ -177,4 +184,13 @@ h1 h2 {
 
 #advice-card-media {
     text-align: center;
+}
+
+/* Tyres page */
+
+#part-worn {
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    border: #00a97f 2px solid;
 }
