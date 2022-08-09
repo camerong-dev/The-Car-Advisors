@@ -111,3 +111,28 @@ h1 h2 {
     padding: 2.5%;
     text-decoration: none;
 }
+
+/* Advice button styling */
+
+#title {
+    font-size: 115%;
+    text-align: center;
+}
+
+#advice-card {
+    margin-left: 7.5px;
+    width: auto;
+    height: auto;
+    position: absolute;
+    cursor: pointer;
+    border: #00a97f 2px solid;
+}
+
+#advice-card-content {
+    text-align: center;
+    width: 300px;
+}
+
+#advice-card-media {
+    text-align: center;
+}
