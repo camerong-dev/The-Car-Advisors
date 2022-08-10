@@ -224,5 +224,8 @@ h1 h2 {
    .media {
     display: none;
    }
-
+   #nav {
+    float: right;
+    
+   }
 }
