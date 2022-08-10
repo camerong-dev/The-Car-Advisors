@@ -28,13 +28,13 @@ h1 h2 {
 
 /* Headers */
 
-#h2-header {
+.h2-header {
     padding-top: 5%;
     margin-left: 7.5px;
     border-bottom: #00a97f 2px solid;
 }
 
-#h3-header {
+.h3-header {
     padding-top: 2.5%;
     text-align: center;
     border-bottom: #00a97f 2px solid;
@@ -69,7 +69,7 @@ h1 h2 {
 
 /* Generic Page styling */
 
-#paragraph {
+.paragraph {
     margin-left: auto;
     margin-right: auto;
     width: 900px;
@@ -78,7 +78,7 @@ h1 h2 {
     font-size: 125%;
 }
 
-#list {
+.list {
     margin-left: auto;
     margin-right: auto;
     width: 900px;
@@ -113,24 +113,24 @@ h1 h2 {
 }
 
 /* Advice button styling */
-#row-1 {
+.row-1 {
     width: 1000px;
     margin: auto;
 }
 
-#row-2 {
+.row-2 {
     width: 1000px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 500px;
 }
 
-#title {
+.title {
     font-size: 115%;
     text-align: center;
 }
 
-#advice-card-left {
+.advice-card-left {
     float: left;
     width: auto;
     height: 440px;
@@ -139,11 +139,11 @@ h1 h2 {
     border: #00a97f 2px solid;
 }
 
-#advice-card-left:hover {
+.advice-card-left:hover {
     background-color: #8abbaf;
 }
 
-#advice-card-center {
+.advice-card-center {
     margin-left: 400px;
     width: auto;
     height: 440px;
@@ -152,11 +152,11 @@ h1 h2 {
     border: #00a97f 2px solid;
 }
 
-#advice-card-center:hover {
+.advice-card-center:hover {
     background-color: #8abbaf;
 }
 
-#advice-card-right {
+.advice-card-right {
     margin-left: 800px;
     width: auto;
     height: 440px;
@@ -165,23 +165,23 @@ h1 h2 {
     border: #00a97f 2px solid;
 }
 
-#advice-card-right:hover {
+.advice-card-right:hover {
     background-color: #8abbaf;
 }
 
-#advice-card-content {
+.advice-card-content {
     text-align: center;
     width: 300px;
     font-size: 115%;
 }
 
-#advice-card-media {
+.advice-card-media {
     text-align: center;
 }
 
 /* Images across all pages */
 
-#images {
+.images {
     margin: 0 auto;
     display: block;
     text-align: center;
