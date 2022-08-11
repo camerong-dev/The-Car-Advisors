@@ -237,13 +237,32 @@ h1 h2 {
    .media {
     display: none;
    }
-   #nav {
-    float: right;
+
+   .h2-header {
+    clear: left;
+    float: left;
+    margin-left: 7.5px;
+    margin-top: 10px;
+
    }
+
+   .paragraph {
+    margin-top: 45px;
+   }
+
    #social-icons {
     text-align: center;
     margin: 0 auto;
    }
 
+}
+
+@media screen and (max-width: 500px) {
+    #nav {
+        clear: left;
+        float: left;
+        margin-bottom: 15px;
+        margin-left: 7.5px;
+       }
 
 }
