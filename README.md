@@ -85,23 +85,23 @@ The two fonts used were imported into the style.css file from [google fonts](htt
 
   Home Page
   
-  image of validation
+  ![Image of Home Page HTML Validation result](assets/readme-images/home-page-validation.jpg)
   
   Buyer's Guide Page
   
-  image of validation
+  ![Image of Guide Page HTML Validation result](assets/readme-images/guides-page-validation.jpg)
   
   Tyres Page
   
-  image of validation
+  ![Image of Tyres Page HTML Validation result](assets/readme-images/tyres-page-validation.jpg)
   
 ### CSS Validation Testing
 
-   image of validation
+   ![Image of CSS Validation result](assets/readme-images/css-validation.jpg)
    
 ### Colour Contrast Validation
 
-   image of validation
+   ![Image of Colour Contrast Validation result](assets/readme-images/colour-contrast-validation.jpg)
    
 ## Responsiveness
 
