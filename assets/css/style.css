@@ -86,10 +86,6 @@ h1 h2 {
     font-size: 115%
 }
 
-#link {
-    width: 50px;
-}
-
 /* Home page video */
 
 #home-video {
@@ -97,6 +93,14 @@ h1 h2 {
     height: 480px;
     margin: 0 auto;
     display: block;
+    text-align: center;
+}
+
+/* Tyre page video */
+
+#tyre-video {
+    width: 720px;
+    margin: 0 auto;
     text-align: center;
 }
 
@@ -111,11 +115,15 @@ h1 h2 {
 }
 
 #social-icons i {
-    color: #00a97f;
+    color: #686576;
     list-style-type: none;
     font-size: 175%;
     padding: 2.5%;
     text-decoration: none;
+}
+
+#social-icons :hover {
+    color: #00a97f;
 }
 
 /* Advice button styling */
@@ -216,6 +224,11 @@ h1 h2 {
         margin: 0 auto;
 
     }
+
+    #social-icons {
+        text-align: center;
+        margin: 0 auto;
+    }
 }
 
 /* Screens smaller than 750px wide*/
@@ -226,6 +239,11 @@ h1 h2 {
    }
    #nav {
     float: right;
-    
    }
+   #social-icons {
+    text-align: center;
+    margin: 0 auto;
+   }
+
+
 }
