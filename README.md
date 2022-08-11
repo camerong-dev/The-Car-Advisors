@@ -119,6 +119,37 @@ The following were tested:
   - Nest Hub
 
 
+## Deployment
 
+The site was deployed to GitHub pages.
 
+### Deploy to GitHub Pages
+
+  1. Navigate to the settings tab in the GitHub repository
+  2. Once in settings, navigate to the pages tab on the left of the page
+  3. Under source, select branch ‘master’ and then click ‘save’
+  4. The page will now automatically refresh and show a detailed ribbon display to indicate deployment
   
+  settings tab image
+  
+### To create a Local Copy
+
+  1. Under the repository name, click on the 'code' tab
+  2. In your clone box, HTTPS tab, click on the clipboard icon
+  3. In your IED open GitBash
+  4. Chang the current working directory to the location you wish the cloned directory to be made
+  5. Type 'git clone' and then paste the URL copied from GitHub
+  6. Press enter and then the local clone will be created 
+  
+  ## Credits
+  
+  ### Content
+  
+    - Text for index.html was taken from [here](https://www.caranddriver.com/buying-guide/) and [here](https://www.caranddriver.com/features/a32018270/how-we-test-cars/)
+    - Text for guide.html was taken from [here](https://strollinsurance.co.uk/blog/the-ultimate-used-car-buying-guide)
+    - Text for tyres.html was taken from [here[(https://www.theaa.com/driving-advice/safety/tyre-life-and-age)
+    
+ ### Media
+ 
+    Images were taken from royalty free sources.
+    Video on index.html was taken from [here](https://www.caranddriver.com/features/a32018270/how-we-test-cars/)
