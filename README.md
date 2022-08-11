@@ -157,3 +157,7 @@ The site was deployed to GitHub pages.
  
    Images were taken from royalty free sources.
    Video on index.html was taken from [here](https://www.caranddriver.com/features/a32018270/how-we-test-cars/)
+   
+### Code
+
+   Refered to Love Running project for footer style
