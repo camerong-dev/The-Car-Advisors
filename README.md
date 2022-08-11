@@ -145,11 +145,11 @@ The site was deployed to GitHub pages.
   
   ### Content
   
-    - Text for index.html was taken from [here](https://www.caranddriver.com/buying-guide/) and [here](https://www.caranddriver.com/features/a32018270/how-we-test-cars/)
-    - Text for guide.html was taken from [here](https://strollinsurance.co.uk/blog/the-ultimate-used-car-buying-guide)
-    - Text for tyres.html was taken from [here[(https://www.theaa.com/driving-advice/safety/tyre-life-and-age)
+   - Text for index.html was taken from [here](https://www.caranddriver.com/buying-guide/) and [here](https://www.caranddriver.com/features/a32018270/how-we-test-cars/)
+   - Text for guide.html was taken from [here](https://strollinsurance.co.uk/blog/the-ultimate-used-car-buying-guide)
+   - Text for tyres.html was taken from [here[(https://www.theaa.com/driving-advice/safety/tyre-life-and-age)
     
  ### Media
  
-    Images were taken from royalty free sources.
-    Video on index.html was taken from [here](https://www.caranddriver.com/features/a32018270/how-we-test-cars/)
+   Images were taken from royalty free sources.
+   Video on index.html was taken from [here](https://www.caranddriver.com/features/a32018270/how-we-test-cars/)
