@@ -17,3 +17,4 @@ Motor Experts is a 3 page website, with the home page being the default loading 
 My colour scheme will follow a simple, yet stylish aesthetic using greys and greens. I used [Colormind](http://colormind.io/) to generate random colour palettes to find the initial colour. From there I used [ColorSpace](https://mycolor.space/) to create a variety of colour palettes based off of one colour that I provided. 
 
 Final Colour Palette:
+/assets/readme-images/colour-palette.jpg
