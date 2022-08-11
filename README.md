@@ -72,3 +72,53 @@ The two fonts used were imported into the style.css file from [google fonts](htt
 
 ![Image of Tyres Page](assets/readme-images/tyres-page.jpg)
 
+## Future Features
+  
+  - Submit guides/advice page. This page will allow a user to submit a guide or advice on a particular topic. This can then be implemented into the site if the 
+    information is both relevant and acurate.
+  - An advice page which includes divs containing an image and text as buttons, which leads to the information stated in the text.
+  - A button taking the user back to the top of the page
+
+## Testing
+
+### HTML Validation Testing
+
+  Home Page
+  
+  image of validation
+  
+  Buyer's Guide Page
+  
+  image of validation
+  
+  Tyres Page
+  
+  image of validation
+  
+### CSS Validation Testing
+
+   image of validation
+   
+### Colour Contrast Validation
+
+   image of validation
+   
+## Responsiveness
+
+Responsive design test were carried out manually using Google Chrome's built in DevTools.
+
+The following were tested:
+
+  - iPhone 6/7/8/
+  - iPhone 6/7/8 Plus
+  - Samsung Galaxy S8+
+  - Samsung Galaxy S20 Ultra
+  - iPad Mini
+  - Surface Pro 7 & Duo
+  - Pixel 2
+  - Nest Hub
+
+
+
+
+  
