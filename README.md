@@ -33,14 +33,14 @@ The two fonts used were imported into the style.css file from [google fonts](htt
 
   - The logo provides another easy way to access the home page. 
   
-logo image
+![Image of Logo](assets/readme-images/logo.jpg)
 
 - Navigation Bar
 
   - Featured on all three pages, the responsive navigation bar inludes links to the Home page, Guides page and Tyres page. The style is consistent all across these         pages
   - This allows users to easily navigate between pages across all devices.
   
-nav bar image
+![Image of Navigation Bar](assets/readme-images/nav-bar.jpg)
 
 - Footer
 
@@ -48,26 +48,27 @@ nav bar image
   - The footer icons change colour when the cursor is hovering over them, this adds to the small details of the site. 
   - The footer will be found on all pages of the site. 
   
-footer image
+![Image of Footer section](assets/readme-images/footer-icons.jpg)
 
 - Home Page
 
   - This page gives the user an overview of who Motor Experts are and what they do. A auto-played video is found at the bottom of the 
     page showing off one of their tests. 
 
-home page image
+![Image of Home Page](assets/readme-images/home-page.jpg)
 
 - Buyer's Guide Page
 
   - This page guides the user on the major things to look out for when buying a car. The page is clearly broken up into titled sections to ensure the page stays clean 
     and readable. Images are used to break up the large body of text. 
 
-buyer's guide page image
+![Image of Buyer's Guide Page](assets/readme-images/buyers-guide-page.jpg)
 
 - Tyres Page
 
-  - This page takes the user through all things relating to tyres. Following the same styling as the Buyer's Guide Page, it is clearly       broken up into titled sections. These titles ensure the user has understanding of the topic before even reading the body of text. 
+  - This page takes the user through all things relating to tyres. Following the same styling as the Buyer's Guide Page, it is clearly broken up into titled sections.     These titles ensure the user has understanding of the topic before even reading the body of text. 
   - A video is availble at the bottom of this page, clicking on the link takes you to YouTube where the user can find out more 
     information on the given topic. 
 
+![Image of Tyres Page](assets/readme-images/tyres-page.jpg)
 
