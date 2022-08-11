@@ -2,6 +2,8 @@
 
 Motor Experts is a site that provides guides and advice for all things relating to cars. This site is targeted towards hopeful car buyers and/or the general public who want to find out more information on particular aspects of a car. 
 
+![Am I Responsive image of Home page](assets/readme-images/is-it-responsive-examples.jpg)
+
 ## Live Site
 [Motor Experts](https://camerong-dev.github.io/motor-experts/)
 
@@ -130,7 +132,7 @@ The site was deployed to GitHub pages.
   3. Under source, select branch ‘master’ and then click ‘save’
   4. The page will now automatically refresh and show a detailed ribbon display to indicate deployment
   
-  settings tab image
+  ![Image of settings tab in GitHub](assets/readme-images/settings-tab.jpg)
   
 ### To create a Local Copy
 
@@ -140,6 +142,8 @@ The site was deployed to GitHub pages.
   4. Chang the current working directory to the location you wish the cloned directory to be made
   5. Type 'git clone' and then paste the URL copied from GitHub
   6. Press enter and then the local clone will be created 
+
+ ![Image of clone box in GitHub](assets/readme-images/local-copy.jpg)
   
   ## Credits
   
