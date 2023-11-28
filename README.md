@@ -4,6 +4,9 @@ Motor Experts is a site that provides guides and advice for all things relating 
 
 ![Am I Responsive image of Home page](assets/readme-images/is-it-responsive-examples.jpg)
 
+## Grade
+Grade PASS
+
 ## Live Site
 [Motor Experts](https://camerong-dev.github.io/motor-experts/)
 
